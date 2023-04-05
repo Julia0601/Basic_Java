@@ -33,17 +33,3 @@ public class Lift {
 
 
 
-
-
-
-
-
-
-// while (sum < H) {
-//        if (N > M) {
-//        sum = sum + N - M;
-//        } else {
-//        System.out.println("Elevator can't move up");
-//        break;
-//        }
-//        count++;
